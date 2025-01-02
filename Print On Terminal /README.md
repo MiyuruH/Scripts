@@ -11,7 +11,7 @@ Before running the script, ensure you have the following installed:
 
   ```bash
   pip install pyfiglet colorama
- 
+bash```
   ## For Fun
   - You can change the output in the code  
 
